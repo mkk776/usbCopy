@@ -1,9 +1,7 @@
 from ctypes import windll
-import hashlib
 import string
 import time
 import os
-from weakref import ref
 
 os.system("cls")
 
