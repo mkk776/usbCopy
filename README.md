@@ -3,6 +3,8 @@ copy storage devices in a sneaky way 😈
 
 first, run start.exe and see how it works
 
+backup path => C:/Users/USER_NAME/Saved Games/backup
+
 note: if the start.exe file didn't work on your pc then you should compile yourself as below
 
 windows might block the program and ask your permission, in this case, you should allow it
