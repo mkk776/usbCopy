@@ -18,6 +18,6 @@ if it sounds suspicious to you, you can compile that main.py and make a exe file
 to use all you need to do is run start.exe, but if dont want a terminal to pop up
 then you need to run runScript.vbs and it won't show anything to the user
 
-TIP: if you want to run it automatically you can make a shortcut and move it to the startup path then it would start as the pc boots up
+TIP: if you want to run it automatically you can make a shortcut and move it to the startup path then it will start to run as the pc boots up
 
 startup path => C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
