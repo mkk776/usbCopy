@@ -1,3 +1,2 @@
-remote_ip = 192.168.1.106:4849
 refresh_delay = 0.6
 pass_disks = C:
