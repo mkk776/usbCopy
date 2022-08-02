@@ -1,2 +1,5 @@
+# dont use "=", use " = "
+# seprate disks with space
+
 refresh_delay = 0.6
 pass_disks = C:
