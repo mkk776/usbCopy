@@ -22,4 +22,4 @@ then you need to run runScript.vbs and it won't show anything to the user
 
 TIP: if you want to run it automatically you can make a shortcut and move it to the startup path then it will start to run as the pc boots up
 
-startup path => C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+startup path => C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
